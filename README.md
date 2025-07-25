@@ -44,11 +44,15 @@ Logs	Alert correlation and validatio
 
 🔍 How to analyze logs and detect attacks
 🧠 Interpreting alerts based on behavioral indicators
+
 🔗 The importance of event correlation and incident response
+
 📊 End-to-end understanding of how SOCs handle security workflows
 
 🎯 6. Final Outcome
 
 📌 Completed internship with real-time SOC experience
+
 🛡️ Built a strong foundation in SIEM and threat detection
+
 ✅ Increased confidence to apply for full-time roles in cybersecurity
