@@ -30,10 +30,13 @@ Learning about SOC tiers, ticket creation, and escalation
 🔬 4. Tools and Technologies Used
 
 Tool/Platform	Purpose
+
 Microsoft Sentinel -	
 SIEM for log and alert analysis
+
 Azure AD -	
 Identity and access logs
+
 Email + Device -
 Logs	Alert correlation and validatio
 
